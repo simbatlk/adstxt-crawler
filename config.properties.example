@@ -1,0 +1,5 @@
+rabbitmq.host=<host>
+rabbitmq.port=<port>
+rabbitmq.user=<username>
+rabbitmq.password=<password>
+rabbitmq.commandQueue=<queue name>
