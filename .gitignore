@@ -1,0 +1,6 @@
+.idea
+adstxt-crawler.iml
+*.properties
+*.log
+target
+out
